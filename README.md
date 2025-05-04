@@ -8,13 +8,13 @@ Front-end Developer | Vue.js Enthusiast
 💻 **Passion:** Building modern, user-centered web applications  
 🛠️ **Experience:** 3+ years of hands-on development in frontend with a strong focus on Vue.js  
 🚀 **Main Stack:** Vue.js | Nuxt.js | Composition API  
-🎯 **Currently Exploring:** Advanced UX Design & Scalable UI Architecture  
+🎯 **Currently Exploring:** Advanced UX Design
 
 ---
 
 ## 🚀 Skills & Tools
 
-![HTML](https://img.shields.io/badge/HTML-EEE3D0?style=for-the-badge&logo=html5&logoColor=black&labelColor=EEE3D0&borderRadius=10)
+![](https://img.shields.io/badge/HTML-EEE3D0?style=for-the-badge&logo=html5&logoColor=black&labelColor=EEE3D0&borderRadius=10)
 ![CSS](https://img.shields.io/badge/CSS-EEE3D0?style=for-the-badge&logo=css3&logoColor=black&labelColor=EEE3D0&borderRadius=10)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EEE3D0?style=for-the-badge&logo=javascript&logoColor=black&labelColor=EEE3D0&borderRadius=10)
 ![TypeScript](https://img.shields.io/badge/TypeScript-EEE3D0?style=for-the-badge&logo=typescript&logoColor=black&labelColor=EEE3D0&borderRadius=10)
